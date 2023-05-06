@@ -3,14 +3,13 @@
 }
 
 body {
-    background-color: #f8cf84;
+    background-color: #e9f0ce;
     text-align: center;
-
 }
 
 h1 {
     text-align: center;
-    color: #4c6e31;
+    color: #687339;
     font-size: 36px;
 }
 
@@ -30,16 +29,15 @@ h1 {
     width: 180px;
     margin: 10px;
     text-align: center;
-    border: 3px solid #fa5b12;
-    background-color: #f2ae1c;
+    border: 3px solid #d45464;
+    background-color: #cedd55;
     padding: 20px;
     font-size: 20px;
     font: bold;
-    border-radius: 10px;
+    border-radius: 20px 0 20px 0 ;
 }
 
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;  
-    
 }
